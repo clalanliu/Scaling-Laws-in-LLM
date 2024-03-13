@@ -9,7 +9,7 @@ This repository compiles a variety of scaling laws related to Large Language Mod
 ## Laws related to Finetuning
 - [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method (ICLR2024)](https://openreview.net/pdf?id=5HCnKDeTws)  
 
-## Laws related to Positional Embedding
+## Laws related to Position Embedding
 - [Scaling Laws of RoPE-based Extrapolation (ICLR2024)](https://arxiv.org/abs/2310.05209)
 
 ## Misc
